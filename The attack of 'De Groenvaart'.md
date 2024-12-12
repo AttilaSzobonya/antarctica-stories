@@ -1,4 +1,4 @@
-# The attack of 'De Groenvaart'
+# The attack of 'De Groenvaart'[^license]
 "Zou zou!" a ship worker shouted at Maarten, who was standing lost on a ship he had never set foot on before. "Move along!" the ship worker barked finally when he saw that it didn’t register with Maarten. Not wanting to show that he had no idea which way to go, Maarten started pacing along with other people carrying luggage. They made their way under the bridge, where the words "De Groenvaart" towered over their heads, painted in green.
 
 Maarten hoped he hadn’t made a lasting impression on that ship worker. The Merchant's Dialect was hard. It felt more like garbled Chinese than English. Even though he had sat through all the lessons, English was not his native language. Not to mention, that many common words were swapped out for Chinese ones, muttered in a way that blurred into an endless stream of sounds, making commands almost unintelligible. He had even taken a test, but hearing it in real life was different. In the end though, he had to know enough to follow commands or risk being useless—and useless wasn’t an option for a ship worker.
@@ -140,3 +140,5 @@ The attackers also wanted to leave no survivors and there they were. The attacke
 And on top of all that, he was a murderer now. The face of the first man he killed never left his mind. It lingered in his thoughts like a shadow, an unerasable mark that no amount of time could heal. For the first time in his life, thinking about this made him question who he truly was.
 
 They arrived at Deception Island three days after their rescue. "Well, that's not how I imagined first arriving at this place," Maarten said, his voice laced with exhaustion and relief, as they gently sailed through Neptune's Bellows and into the calm waters of Port Foster. It felt like a haven, a small respite amidst the chaos they had endured and the chaos that was to come.
+
+[^license]: This publication falls under the Creative Commons BY-NC-ND (Attribution-NonCommercial-NoDerivs) license, detailed in the [LICENSE](LICENSE.md) file.
